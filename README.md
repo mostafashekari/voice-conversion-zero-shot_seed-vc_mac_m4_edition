@@ -1,4 +1,4 @@
-# Seed-VC for Mac Mini M4
+# Seed-VC for Mac M4
 This repository provides a modified `app.py` to run [Seed-VC](https://github.com/Plachtaa/seed-vc) on a Mac Mini M4 with MPS support.
 
 ## Instructions
