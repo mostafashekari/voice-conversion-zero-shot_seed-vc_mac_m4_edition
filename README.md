@@ -1,5 +1,13 @@
-download orginal repository form this link: 
+# Seed-VC for Mac Mini M4
+This repository provides a modified `app.py` to run [Seed-VC](https://github.com/Plachtaa/seed-vc) on a Mac Mini M4 with MPS support.
 
-https://github.com/Plachtaa/seed-vc.git
+## Instructions
+1. **Download the original Seed-VC repository:**
 
-and edit app.py for run on mac m4
+git clone https://github.com/Plachtaa/seed-vc.git
+cd seed-vc
+
+2. **Replace the original `app.py` with the modified version:**
+- Copy the `app.py` file from this repository into the `seed-vc` directory.
+3. **Follow the setup and run instructions:**
+- Refer to the original [Seed-VC README](https://github.com/Plachtaa/seed-vc/blob/main/README.md) for further steps.
